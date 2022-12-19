@@ -1,0 +1,401 @@
+[{
+  "Id": "36dfe962-7ddf-479a-abdb-d42f720046fa",
+  "Name": "White-cheeked pintail",
+  "ScientificName": "Anas bahamensis"
+}, {
+  "Id": "e0f91b7d-6444-4a2d-bfcf-b63554260392",
+  "Name": "Gazelle, thomson's",
+  "ScientificName": "Gazella thompsonii"
+}, {
+  "Id": "3ac60253-750d-4cfd-9f16-fd102bd12ade",
+  "Name": "Dik, kirk's dik",
+  "ScientificName": "Madoqua kirkii"
+}, {
+  "Id": "641ce464-f1a0-41ad-8470-84e66414ed26",
+  "Name": "Zorro, common",
+  "ScientificName": "Dusicyon thous"
+}, {
+  "Id": "15351bab-6bb3-4f48-83e8-d8d1270e0d6e",
+  "Name": "Japanese macaque",
+  "ScientificName": "Macaca fuscata"
+}, {
+  "Id": "2fc948f9-6128-4cc7-9f1d-2433e3d87424",
+  "Name": "Goat, mountain",
+  "ScientificName": "Oreamnos americanus"
+}, {
+  "Id": "13eb43a3-d38b-488a-9391-9ef26e621087",
+  "Name": "Kelp gull",
+  "ScientificName": "Larus dominicanus"
+}, {
+  "Id": "4543bc04-e34d-4b11-8951-36a83248b7d2",
+  "Name": "African bush squirrel",
+  "ScientificName": "Paraxerus cepapi"
+}, {
+  "Id": "c5ce6d7b-3389-43e7-9841-5311b1c25895",
+  "Name": "Crested screamer",
+  "ScientificName": "Chauna torquata"
+}, {
+  "Id": "f3203c17-7793-4b9c-8e8d-1768d3ef8f57",
+  "Name": "Crown of thorns starfish",
+  "ScientificName": "Acanthaster planci"
+}, {
+  "Id": "56944e84-38b8-4d45-a521-1ca7221af145",
+  "Name": "Crane, stanley",
+  "ScientificName": "Anthropoides paradisea"
+}, {
+  "Id": "b31e4470-a567-438f-85d8-d02d274a06f3",
+  "Name": "Red howler monkey",
+  "ScientificName": "Alouatta seniculus"
+}, {
+  "Id": "ce7c566d-aaf5-4cd6-bc9d-12f00bd4caf1",
+  "Name": "Bird, red-billed tropic",
+  "ScientificName": "Phaethon aethereus"
+}, {
+  "Id": "76aa6813-0c64-41ea-a9de-7710df9b47da",
+  "Name": "Glider, feathertail",
+  "ScientificName": "Acrobates pygmaeus"
+}, {
+  "Id": "11e38e2e-72f3-4e08-8190-b0f8d5640150",
+  "Name": "Boat-billed heron",
+  "ScientificName": "Cochlearius cochlearius"
+}, {
+  "Id": "e3a99276-9f64-4d83-b77c-35c5ddec4f18",
+  "Name": "European badger",
+  "ScientificName": "Meles meles"
+}, {
+  "Id": "9f75a31b-cd57-4603-bce2-8d40c5f6513b",
+  "Name": "Onager",
+  "ScientificName": "Equus hemionus"
+}, {
+  "Id": "eb5f776a-0a94-42ba-8842-fe2b4359e3a2",
+  "Name": "Galapagos albatross",
+  "ScientificName": "Diomedea irrorata"
+}, {
+  "Id": "114f1c11-750d-455d-846d-68c63a7345b0",
+  "Name": "Brown hyena",
+  "ScientificName": "Hyaena brunnea"
+}, {
+  "Id": "75ac7cf3-943f-4263-90fa-3a110574ec94",
+  "Name": "Southern hairy-nosed wombat",
+  "ScientificName": "Lasiorhinus latifrons"
+}, {
+  "Id": "e985ea75-3fa2-4b1a-9307-a1089705e47a",
+  "Name": "Crab (unidentified)",
+  "ScientificName": "unavailable"
+}, {
+  "Id": "c3337333-ba79-4d12-8ecd-4ecbe70c4058",
+  "Name": "White-throated robin",
+  "ScientificName": "Irania gutteralis"
+}, {
+  "Id": "9b7ff23f-4a1f-4b84-ab89-4b7d362da938",
+  "Name": "Purple moorhen",
+  "ScientificName": "Porphyrio porphyrio"
+}, {
+  "Id": "d1014ed5-7c22-437a-925d-6046faf173a5",
+  "Name": "Bahama pintail",
+  "ScientificName": "Anas bahamensis"
+}, {
+  "Id": "5177e354-6dd1-4fd5-ab36-ec3244884af5",
+  "Name": "Kongoni",
+  "ScientificName": "Alcelaphus buselaphus cokii"
+}, {
+  "Id": "0f951c77-dd67-412b-8baf-a14509227896",
+  "Name": "Ibis, puna",
+  "ScientificName": "Plegadis ridgwayi"
+}, {
+  "Id": "a7bf9fe5-d242-4cac-8221-0ba21ba96932",
+  "Name": "Crowned hawk-eagle",
+  "ScientificName": "Spizaetus coronatus"
+}, {
+  "Id": "c76197c4-5430-4fbc-8157-9cd17f507e59",
+  "Name": "Flying fox (unidentified)",
+  "ScientificName": "unavailable"
+}, {
+  "Id": "6604f968-b0f6-47e2-a30a-dfa1fd61229a",
+  "Name": "Skimmer, four-spotted",
+  "ScientificName": "Libellula quadrimaculata"
+}, {
+  "Id": "63e5c86f-b5b2-4288-9957-08a661fc2eac",
+  "Name": "Arctic ground squirrel",
+  "ScientificName": "Spermophilus parryii"
+}, {
+  "Id": "a5f864ae-2c9d-43ac-a278-fe13933a00e5",
+  "Name": "Jungle kangaroo",
+  "ScientificName": "Macropus agilis"
+}, {
+  "Id": "cc46fc84-891d-4dad-8353-deb510b8ab80",
+  "Name": "Jabiru stork",
+  "ScientificName": "Ephippiorhynchus mycteria"
+}, {
+  "Id": "ca2de13e-bb0d-4f4b-b377-f9f0cec35789",
+  "Name": "Squirrel, thirteen-lined",
+  "ScientificName": "Spermophilus tridecemlineatus"
+}, {
+  "Id": "a4e476d9-645f-4df4-adb0-29334d902e3e",
+  "Name": "Short-nosed bandicoot",
+  "ScientificName": "Isoodon obesulus"
+}, {
+  "Id": "57ca1460-a81f-4acd-87ac-b06a128b2988",
+  "Name": "White stork",
+  "ScientificName": "Ciconia ciconia"
+}, {
+  "Id": "058dec86-5900-4b98-8632-a310fa65a90f",
+  "Name": "Gecko, bent-toed",
+  "ScientificName": "Cyrtodactylus louisiadensis"
+}, {
+  "Id": "2fb63eee-5ac0-4b57-afc9-ee1d0a395852",
+  "Name": "African polecat",
+  "ScientificName": "Ictonyx striatus"
+}, {
+  "Id": "91c9f4b4-1cac-4680-b5ab-ecb1bc0d43a2",
+  "Name": "Waterbuck, common",
+  "ScientificName": "Kobus defassa"
+}, {
+  "Id": "583a66d1-5630-47c0-baa1-23f1ed769932",
+  "Name": "Rat, desert kangaroo",
+  "ScientificName": "Dipodomys deserti"
+}, {
+  "Id": "3eb5d8c5-2713-499f-adcd-15ae6acea114",
+  "Name": "Javanese cormorant",
+  "ScientificName": "Phalacrocorax niger"
+}, {
+  "Id": "1c8e3fae-e2dc-4888-b416-8c271f424286",
+  "Name": "Monitor, water",
+  "ScientificName": "Varanus salvator"
+}, {
+  "Id": "a794ee00-f0f0-4ff8-8d8e-edc1fcbca60b",
+  "Name": "Fox, savanna",
+  "ScientificName": "Dusicyon thous"
+}, {
+  "Id": "71c9a7b7-2d19-4398-8dbd-6091e250006b",
+  "Name": "Pie, rufous tree",
+  "ScientificName": "Dendrocitta vagabunda"
+}, {
+  "Id": "703ef8e0-642f-48ac-9868-a722fe83bc50",
+  "Name": "Sheathbill, snowy",
+  "ScientificName": "Chionis alba"
+}, {
+  "Id": "c3504cb7-9a4b-48c4-afb1-8f58c0a07001",
+  "Name": "Cat, tiger",
+  "ScientificName": "Dasyurus maculatus"
+}, {
+  "Id": "a96d9d46-280b-4323-9060-ea66c2b0555d",
+  "Name": "Shelduck, european",
+  "ScientificName": "Tadorna tadorna"
+}, {
+  "Id": "6f7bcaf7-f766-4e79-9b07-399c654c7d5b",
+  "Name": "Ring dove",
+  "ScientificName": "Columba palumbus"
+}, {
+  "Id": "4736568b-23ef-4823-a8e0-ebc834cff3f4",
+  "Name": "Red-necked wallaby",
+  "ScientificName": "Macropus rufogriseus"
+}, {
+  "Id": "6832b1e6-c002-4279-b95b-cb625279edb2",
+  "Name": "Yellow-rumped siskin",
+  "ScientificName": "Carduelis uropygialis"
+}, {
+  "Id": "272d76ba-ce08-4194-99c7-7bf13d04f1d4",
+  "Name": "Lemur, brown",
+  "ScientificName": "Lemur fulvus"
+}, {
+  "Id": "10f098fd-86f5-4054-a52f-cb34a6d3b349",
+  "Name": "Madagascar hawk owl",
+  "ScientificName": "Ninox superciliaris"
+}, {
+  "Id": "b431a4cb-af7b-4010-b1ce-633e7c151a9e",
+  "Name": "Kongoni",
+  "ScientificName": "Alcelaphus buselaphus cokii"
+}, {
+  "Id": "85eb5f93-e20f-48e4-b57a-4e0ed5745dbd",
+  "Name": "Denham's bustard",
+  "ScientificName": "Neotis denhami"
+}, {
+  "Id": "ff8159dc-1916-415e-a1fd-b001bffc3c86",
+  "Name": "Cockatoo, sulfur-crested",
+  "ScientificName": "Cacatua galerita"
+}, {
+  "Id": "d6b465a0-f6d0-4e22-8750-5b0d4f290424",
+  "Name": "Wallaby, whip-tailed",
+  "ScientificName": "Macropus parryi"
+}, {
+  "Id": "2b1bf384-ee0d-4d62-93e8-5148a0ec3da8",
+  "Name": "African ground squirrel (unidentified)",
+  "ScientificName": "Xerus sp."
+}, {
+  "Id": "ef30d6c1-6d9c-483f-9e12-90d9dfdeeb7a",
+  "Name": "Javanese cormorant",
+  "ScientificName": "Phalacrocorax niger"
+}, {
+  "Id": "609725a3-fa5c-4cf2-b252-f8ef6d98e6e5",
+  "Name": "Antelope ground squirrel",
+  "ScientificName": "Ammospermophilus nelsoni"
+}, {
+  "Id": "ce6a5ced-32b4-48af-9fd7-c35d42d82bcd",
+  "Name": "Tawny frogmouth",
+  "ScientificName": "Podargus strigoides"
+}, {
+  "Id": "1c0203a4-fb89-4a80-8640-dd875f140d9a",
+  "Name": "Genet, small-spotted",
+  "ScientificName": "Genetta genetta"
+}, {
+  "Id": "0d611ade-2095-44e5-a616-ca35c6b6d8e0",
+  "Name": "Moccasin, water",
+  "ScientificName": "Agkistrodon piscivorus"
+}, {
+  "Id": "6a5bda04-e82b-44a5-beca-0c26cab5543f",
+  "Name": "Orca",
+  "ScientificName": "Orcinus orca"
+}, {
+  "Id": "d9174644-f50f-4228-88bc-49ed3ff00109",
+  "Name": "American buffalo",
+  "ScientificName": "Bison bison"
+}, {
+  "Id": "b623cee4-2531-49fe-a595-a6b35b24ba9a",
+  "Name": "Otter, african clawless",
+  "ScientificName": "Aonyx capensis"
+}, {
+  "Id": "b24c4081-42a5-4f27-8639-ada457c99342",
+  "Name": "Llama",
+  "ScientificName": "Lama glama"
+}, {
+  "Id": "9512f531-e377-441e-9e73-9f251b23a928",
+  "Name": "Squirrel, smith's bush",
+  "ScientificName": "Paraxerus cepapi"
+}, {
+  "Id": "b483bca6-3bb4-4d2c-9321-fecc093780fa",
+  "Name": "Agile wallaby",
+  "ScientificName": "Macropus agilis"
+}, {
+  "Id": "798000d7-7d7d-4ac7-9f3e-23006830809f",
+  "Name": "Brolga crane",
+  "ScientificName": "Grus rubicundus"
+}, {
+  "Id": "31b942fd-f975-4440-ac0e-d2b435bca1d1",
+  "Name": "Puma",
+  "ScientificName": "Felis concolor"
+}, {
+  "Id": "1e99154c-a634-4b46-98a2-14881ea9289a",
+  "Name": "Salmon, sockeye",
+  "ScientificName": "Oncorhynchus nerka"
+}, {
+  "Id": "9eb2824c-ac34-4932-9c93-eefac032d45c",
+  "Name": "Red-tailed phascogale",
+  "ScientificName": "Phascogale calura"
+}, {
+  "Id": "3740dfa1-c6ed-4aed-b147-22a83533b3ae",
+  "Name": "White-throated monitor",
+  "ScientificName": "Varanus albigularis"
+}, {
+  "Id": "b2524230-c61e-44d2-a698-282984099660",
+  "Name": "Pintail, white-cheeked",
+  "ScientificName": "Anas bahamensis"
+}, {
+  "Id": "7f58e053-3e9f-47c0-ab7f-0cf4516d0292",
+  "Name": "Savannah deer",
+  "ScientificName": "Mazama gouazoubira"
+}, {
+  "Id": "5b1de5bd-b22d-4e29-9570-18777dcef6a4",
+  "Name": "Dove, rock",
+  "ScientificName": "Columba livia"
+}, {
+  "Id": "5d39486b-8f96-47b4-8f84-2852e60629fd",
+  "Name": "Small-toothed palm civet",
+  "ScientificName": "Arctogalidia trivirgata"
+}, {
+  "Id": "4d03cee9-d8f9-4dfa-9f5b-acbfbf08fc63",
+  "Name": "Flamingo, greater",
+  "ScientificName": "Phoenicopterus ruber"
+}, {
+  "Id": "95b6d610-5ef3-40d6-b87a-675a95553f7d",
+  "Name": "Monkey, black spider",
+  "ScientificName": "Ateles paniscus"
+}, {
+  "Id": "5e648f75-6a4c-4bef-a7d0-50c8ee3417ff",
+  "Name": "Rhea, common",
+  "ScientificName": "Rhea americana"
+}, {
+  "Id": "80e5daa5-2d34-448d-b92a-3c20f81c1054",
+  "Name": "Butterfly (unidentified)",
+  "ScientificName": "unavailable"
+}, {
+  "Id": "74106e87-cfcd-4cdd-83cd-c19fc72bf3be",
+  "Name": "Wambenger, red-tailed",
+  "ScientificName": "Phascogale calura"
+}, {
+  "Id": "1139b38f-feeb-4c4e-8037-ac280b5135ad",
+  "Name": "Duiker, common",
+  "ScientificName": "Sylvicapra grimma"
+}, {
+  "Id": "3cfdfaba-5f0f-40ba-8d6f-bca6ec2557a0",
+  "Name": "Greater blue-eared starling",
+  "ScientificName": "Lamprotornis chalybaeus"
+}, {
+  "Id": "1392c180-917c-44dd-a72c-eed691ca9629",
+  "Name": "Glider, feathertail",
+  "ScientificName": "Acrobates pygmaeus"
+}, {
+  "Id": "363a7f76-122a-42c1-8a9b-c0784b73a84e",
+  "Name": "Hawk-eagle, crowned",
+  "ScientificName": "Spizaetus coronatus"
+}, {
+  "Id": "e8a4e065-40c5-47ea-816a-20d71bb0ba8e",
+  "Name": "Nubian bee-eater",
+  "ScientificName": "Merops nubicus"
+}, {
+  "Id": "60c7c530-4adf-4cb5-a4c0-1fd7e349b870",
+  "Name": "Eurasian beaver",
+  "ScientificName": "Castor fiber"
+}, {
+  "Id": "cfeb3d77-412e-4271-b3bf-0ed744edfd76",
+  "Name": "African clawless otter",
+  "ScientificName": "Aonyx capensis"
+}, {
+  "Id": "453101f2-1571-4805-92a0-b78c08ec3762",
+  "Name": "South American sea lion",
+  "ScientificName": "Otaria flavescens"
+}, {
+  "Id": "384d4dfe-af5d-42c4-9605-f89a7fd3b550",
+  "Name": "Egyptian cobra",
+  "ScientificName": "Naja haje"
+}, {
+  "Id": "40e8f4e3-1289-40e8-a7d6-f3ee504da0a2",
+  "Name": "Capuchin, white-fronted",
+  "ScientificName": "Cebus albifrons"
+}, {
+  "Id": "07703b7b-f280-42c8-99f1-d9ee308fde75",
+  "Name": "Banded mongoose",
+  "ScientificName": "Mungos mungo"
+}, {
+  "Id": "7d166cff-01f4-486b-ae6f-4f97ef828baa",
+  "Name": "Turtle, long-necked",
+  "ScientificName": "Chelodina longicollis"
+}, {
+  "Id": "4d65635d-e500-4924-9e5d-738b7d652966",
+  "Name": "Common rhea",
+  "ScientificName": "Rhea americana"
+}, {
+  "Id": "92e0b1f4-0b54-48df-b81c-61f8dea76446",
+  "Name": "American alligator",
+  "ScientificName": "Alligator mississippiensis"
+}, {
+  "Id": "4abaf841-9ff6-4727-8f9b-1fe827cef789",
+  "Name": "European wild cat",
+  "ScientificName": "Felis silvestris lybica"
+}, {
+  "Id": "5b802792-746d-4ae3-8b4a-56d9c7ded12f",
+  "Name": "Stork, black-necked",
+  "ScientificName": "Ephippiorhynchus mycteria"
+}, {
+  "Id": "d0b9d1bc-6f12-48af-9e66-ef385267f6c5",
+  "Name": "Guanaco",
+  "ScientificName": "Lama guanicoe"
+}, {
+  "Id": "1e889a3c-0e4e-4ba6-80ed-a93f8e7a776e",
+  "Name": "Crab, red lava",
+  "ScientificName": "Graspus graspus"
+}, {
+  "Id": "4234a406-8eb4-456e-8feb-827f7339b750",
+  "Name": "Springbuck",
+  "ScientificName": "Antidorcas marsupialis"
+}]
