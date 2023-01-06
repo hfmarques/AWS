@@ -7,19 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDB", "DynamoDB\Dynamo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3", "S3\S3.csproj", "{344EDE8B-4B04-42AF-AD9C-0260A65CBE41}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServerlessResumeUploaderArchitecture", "ServerlessResumeUploaderArchitecture", "{7290FF77-D90A-4490-93FA-179A2160C6BE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleCSharpLambda", "SingleCSharpLambda\src\SingleCSharpLambda\SingleCSharpLambda.csproj", "{7D522F12-8D68-46FD-8C48-9642301EF7DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleCSharpLambda.Tests", "SingleCSharpLambda\test\SingleCSharpLambda.Tests\SingleCSharpLambda.Tests.csproj", "{A27A9279-5166-45FD-836F-39912331769D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrderProcess", "OrderProcess", "{F1358E9B-191B-4991-BC4D-41308959F8DB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcess.Core", "OrderProcess.Core\OrderProcess.Core.csproj", "{CDC163EB-85FF-4EE0-9E12-DA8EFA65A8C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcess.Adapters", "OrderProcess.Adapters\OrderProcess.Adapters.csproj", "{39C3E6F3-6136-4009-B537-938B5CC18A62}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcess.ReceiveOrder", "OrderProcess.ReceiveOrder\src\OrderProcess.ReceiveOrder\OrderProcess.ReceiveOrder.csproj", "{A93E5F36-DA1C-4CA3-BBD7-45F428C0A9B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaToConsumeFromSqs", "LambdaToConsumeFromSqs\src\LambdaToConsumeFromSqs\LambdaToConsumeFromSqs.csproj", "{1735C86E-AB59-4F78-B325-BAE22B9F1133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,22 +38,11 @@ Global
 		{A27A9279-5166-45FD-836F-39912331769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27A9279-5166-45FD-836F-39912331769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27A9279-5166-45FD-836F-39912331769D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CDC163EB-85FF-4EE0-9E12-DA8EFA65A8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CDC163EB-85FF-4EE0-9E12-DA8EFA65A8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CDC163EB-85FF-4EE0-9E12-DA8EFA65A8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CDC163EB-85FF-4EE0-9E12-DA8EFA65A8C2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{39C3E6F3-6136-4009-B537-938B5CC18A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{39C3E6F3-6136-4009-B537-938B5CC18A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{39C3E6F3-6136-4009-B537-938B5CC18A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{39C3E6F3-6136-4009-B537-938B5CC18A62}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A93E5F36-DA1C-4CA3-BBD7-45F428C0A9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A93E5F36-DA1C-4CA3-BBD7-45F428C0A9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A93E5F36-DA1C-4CA3-BBD7-45F428C0A9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A93E5F36-DA1C-4CA3-BBD7-45F428C0A9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1735C86E-AB59-4F78-B325-BAE22B9F1133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1735C86E-AB59-4F78-B325-BAE22B9F1133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1735C86E-AB59-4F78-B325-BAE22B9F1133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1735C86E-AB59-4F78-B325-BAE22B9F1133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{CDC163EB-85FF-4EE0-9E12-DA8EFA65A8C2} = {F1358E9B-191B-4991-BC4D-41308959F8DB}
-		{39C3E6F3-6136-4009-B537-938B5CC18A62} = {F1358E9B-191B-4991-BC4D-41308959F8DB}
-		{A93E5F36-DA1C-4CA3-BBD7-45F428C0A9B1} = {F1358E9B-191B-4991-BC4D-41308959F8DB}
 	EndGlobalSection
 EndGlobal
